@@ -1,0 +1,314 @@
+.firsth1{
+
+	text-align: center;
+	padding: 5%;
+	margin: 0%;
+	border: 2%;
+	border-bottom-color: blue;
+	border-top-color: red;
+	border-left-color: green;
+	border-right-color: purple;
+	border-style: solid;
+}
+#theWholeContainer{
+	background-color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#bigContainer{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: black;
+	width: 100%;
+	height: 0 auto;
+	color: white;
+}
+.anotherOne{
+    margin-left: auto;
+	margin-right: auto;
+	background-color: black;
+	width: 70%;
+	height: 0 auto;
+	color: white;
+
+}
+
+.line{
+	height: 0.5%;
+	width: 100%;
+	background-color: black;
+	padding: 0.1%;
+}
+.firstCategory{
+	text-align: center;
+	padding: 5%;
+	margin: 0%;
+	border: 2%;
+	border-bottom-color: black;
+	border-top-color: red;
+	border-left-color: green;
+	border-right-color: purple;
+	border-style: solid;
+}
+#animes{
+	background-color: orange;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 0%;
+}
+#h21{
+padding: 1%;
+}
+#animeHeading{
+		text-shadow: 0.5%;
+		background-color: black;
+		color: green;
+		text-shadow: 2px 1px white;
+		font-style: italic;
+		text-decoration: none;
+		margin-top: 1%;
+		margin-bottom: 1%;
+		padding: 1%;
+}
+#animeHeading1{
+text-shadow: 0.5%;
+		background-color: black;
+		color: orange;
+		text-shadow: 2px 1px white;
+		font-style: italic;
+		text-decoration: none;
+		margin-top: 1%;
+		margin-bottom: 1%;
+		padding: 1%;
+}
+
+#animeHeading2{
+		text-shadow: 0.5%;
+		background-color: black;
+		color: red;
+		text-shadow: 2px 1px white;
+		font-style: italic;
+		text-decoration: none;
+		margin-top: 1%;
+		margin-bottom: 1%;
+		padding: 1%;	
+}
+#animeHeading3{
+		text-shadow: 0.5%;
+		background-color: black;
+		color: purple;
+		text-shadow: 2px 1px white;
+		font-style: italic;
+		text-decoration: none;
+		margin-top: 1%;
+		margin-bottom: 1%;
+		padding: 1%;	
+}
+#animeHeading4{
+		text-shadow: 0.5%;
+		background-color: black;
+		color: blue;
+		text-shadow: 2px 1px white;
+		font-style: italic;
+		text-decoration: none;
+		margin-top: 1%;
+		margin-bottom: 1%;
+		padding: 1%;	
+}
+#memes{
+	background-color: green;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 0%;
+}
+#memeheading{
+		text-shadow: 0.5%;
+		background-color: black;
+		color: white;
+		text-shadow: 2px 1px silver;
+		font-style: italic;
+		text-decoration: none;
+		margin-top: 1%;
+		margin-bottom: 1%;
+		padding: 1%;
+}
+#memeheading1{
+		text-shadow: 0.5%;
+		background-color: black;
+		color: grey;
+		text-shadow: 2px 1px white;
+		font-style: italic;
+		text-decoration: none;
+		margin-top: 1%;
+		margin-bottom: 1%;
+		padding: 1%;
+}
+#memeheading2{
+		text-shadow: 0.5%;
+		background-color: white;
+		color: grey;
+		text-shadow: 2px 1px black;
+		font-style: italic;
+		text-decoration: none;
+		margin-top: 1%;
+		margin-bottom: 1%;
+		padding: 1%;
+}
+#movies{
+		background-color: blue;
+		color: white;
+		margin-left: auto;
+		margin-right: auto;
+		margin: 0%;
+}
+#movieheading{
+	text-shadow: 0.5%;
+		background-color: black;
+		color: green;
+		text-shadow: 2px 1px white;
+		font-style: italic;
+		text-decoration: none;
+		margin-top: 1%;
+		margin-bottom: 1%;
+		padding: 1%;
+}
+#movieheading1{
+	text-shadow: 0.5%;
+		background-color: black;
+		color: aqua;
+		text-shadow: 2px 1px white;
+		font-style: italic;
+		text-decoration: none;
+		margin-top: 1%;
+		margin-bottom: 1%;
+		padding: 1%;
+}
+#videos{
+	background-color: red;
+		color: white;
+		margin-left: auto;
+		margin-right: auto;
+		margin: 0%;
+}
+#videoheading{
+	text-shadow: 0.5%;
+		background-color: black;
+		color: red;
+		text-shadow: 2px 1px white;
+		font-style: italic;
+		text-decoration: none;
+		margin-top: 1%;
+		margin-bottom: 1%;
+		padding: 1%;
+}
+#videoheading1{
+	text-shadow: 0.5%;
+		background-color: black;
+		color: purple;
+		text-shadow: 2px 1px white;
+		font-style: italic;
+		text-decoration: none;
+		margin-top: 1%;
+		margin-bottom: 1%;
+		padding: 1%;
+}
+#videoheading2{
+	text-shadow: 0.5%;
+		background-color: black;
+		color: blue;
+		text-shadow: 2px 1px white;
+		font-style: italic;
+		text-decoration: none;
+		margin-top: 1%;
+		margin-bottom: 1%;
+		padding: 1%;
+}
+.a{
+		text-decoration: none;
+}
+#animeHeading:hover{
+-moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  background-color: green;
+  color:white;
+}
+#animeHeading1:hover{
+-moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  background-color: yellow;
+  color:white;
+}
+#animeHeading2:hover{
+-moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  background-color: red;
+  color:white;
+}
+#animeHeading3:hover{
+-moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  background-color: purple;
+  color:white;
+}
+#animeHeading4:hover{
+-moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  background-color: blue;
+  color:white;
+}
+#movieheading:hover{
+	-moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  background-color: green;
+  color:white;
+}
+#movieheading1:hover{
+	-moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  background-color: aqua;
+  color:white;
+}
+#videoheading:hover{
+	-moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  background-color: red;
+  color:white;
+}
+#videoheading1:hover{
+	-moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  background-color: purple;
+  color:white;
+}
+#videoheading2:hover{
+	-moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  background-color: blue;
+  color:white;
+}
+#memeheading:hover{
+	-moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  background-color: black;
+  color:white;
+}
+#memeheading1:hover{
+	-moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  background-color: black;
+  color:white;
+}
+
